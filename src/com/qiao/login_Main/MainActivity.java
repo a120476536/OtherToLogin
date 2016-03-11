@@ -28,6 +28,7 @@ import com.qiao.bean.UserInfo;
 import com.qiao.login_master.R;
 /**
  * 此demo使用第三方登陆，例子比较简单
+ * 测试git提交
  * @author 有点凉了
  *
  */
